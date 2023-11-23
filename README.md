@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=450&height=70&duration=4500&lines=Hey!+👋;+I'm+Trystan;Welcome to my Github!" />
 </h1>
 
-**'Problem Solver | Data Scientist | Data Analyst'**
+<h2>**Problem Solver | Data Scientist | Data Analyst**</h2>
 
- 
+<div align="center">
 I'm a Self-taught Data Scientist with a passion for problem-solving
 I independently conceive, build, and bring to life coding projects,
 using every available resource to dive into challenges head-on 
-
+</div>
 
 <div align="center"> 
   <a href="mailto:trystan.geoffre@gmail.com">
@@ -21,7 +21,6 @@ using every available resource to dive into challenges head-on
   </a>
 </div>
 
-##
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
