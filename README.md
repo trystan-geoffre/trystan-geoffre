@@ -1,19 +1,17 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=trystan-geoffre.trystan-geoffre" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Trystan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=450&height=70&duration=4000&lines=Hey!+👋;+I'm+Trystan;Welcome to my Github!" />
 </h1>
-<!--
-**trystan-geoffre/trystan-geoffre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="center">**Problem Solver | Data Scientist | Data Analyst**</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> 
+    I'm a Self-taught Data Scientist with a passion for problem-solving
+    I independently conceive, build, and bring to life coding projects, 
+    using every available resource to dive into challenges head-on
+</div>
+
+
+
+
