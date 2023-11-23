@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=450&height=70&duration=4000&lines=Hey!+👋;+I'm+Trystan;Welcome to my Github!" />
 </h1>
 
-<h2 align="center">**Problem Solver | Data Scientist | Data Analyst**</h2>
+>**Problem Solver | Data Scientist | Data Analyst**
 
 <div align="center"> 
     I'm a Self-taught Data Scientist with a passion for problem-solving
