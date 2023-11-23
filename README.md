@@ -8,8 +8,11 @@
 
 <div align="center">
 I'm a Self-taught Data Scientist with a passion for problem-solving
+    
 I independently conceive, build, and bring to life coding projects,
+
 using every available resource to dive into challenges head-on 
+    
 </div>
 
 <div align="center"> 
