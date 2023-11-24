@@ -34,7 +34,7 @@
 
 ---
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<div align="center">⚒️ Languages-Frameworks-Tools ⚒️</div>
 
 <br/>
 
