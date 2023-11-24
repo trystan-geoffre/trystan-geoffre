@@ -39,21 +39,41 @@
 <br />
 
 <div align="center">
-  <img alt="Python" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-  <img alt="TensorFlow" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-  <img alt="SQLite" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-  <img alt="VBA" width="60px" style="padding-right:50px;" src="https://raw.githubusercontent.com/github/explore/71e4a0fc524fd1d7a0d9a940aa6b91f31458a87b/topics/vba/vba.png" />
-  <img alt="Neo4j" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" />
-  <img alt="HTML" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img alt="Git" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+    <img alt="Python" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+  </a>
+  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+    <img alt="TensorFlow" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  </a>
+  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+    <img alt="SQLite" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+  </a>
+  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+    <img alt="VBA" width="60px" style="padding-right:50px;" src="https://raw.githubusercontent.com/github/explore/71e4a0fc524fd1d7a0d9a940aa6b91f31458a87b/topics/vba/vba.png" />
+  </a>
+  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+    <img alt="Neo4j" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" />
+  </a>
+  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+    <img alt="HTML" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  </a>
+  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+    <img alt="Git" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img alt="Tableau" width="50px" style="padding-right:50px;" src="https://www.selectdistinct.co.uk/wp-content/uploads/2023/03/Tableau-logo-removebg-preview.png" />
-  <img alt="Excel" width="50px" style="padding-right:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019–present%29.svg/2203px-Microsoft_Office_Excel_%282019–present%29.svg.png" />
-  <img alt="GitHub" width="50px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+    <img alt="Tableau" width="50px" style="padding-right:50px;" src="https://www.selectdistinct.co.uk/wp-content/uploads/2023/03/Tableau-logo-removebg-preview.png" />
+  </a>
+  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+    <img alt="Excel" width="50px" style="padding-right:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019–present%29.svg/2203px-Microsoft_Office_Excel_%282019–present%29.svg.png" />
+  </a>
+  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+    <img alt="GitHub" width="50px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  </a>
 </div>
 <br />
 
