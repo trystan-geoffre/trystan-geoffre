@@ -29,8 +29,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-<a href="https://github.com/.github.io/raw/master/files/">
-<img src="https://img.shields.io/badge/Download%20CV-Ali%20Eren%20Kayhan-blue" />
+
+<a align="center" href="https://github.com/.github.io/raw/master/files/">
+<img src="https://img.shields.io/badge/Download%20CV-Trystan%20Geoffre-blue" />
 </a>
  </h4>
 
