@@ -30,8 +30,8 @@
   </a>
 </div>
 
-<a href="https://github.com/.github.io/raw/master/files/">
-<img align="center" src="https://img.shields.io/badge/Download%20CV-Trystan%20Geoffre-blue" />
+<a align="center" href="https://github.com/.github.io/raw/master/files/">
+  <img src="https://img.shields.io/badge/Download%20CV-Trystan%20Geoffre-blue" />
 </a>
  </h4>
 
