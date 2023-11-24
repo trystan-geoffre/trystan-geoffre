@@ -1,9 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=trystan-geoffre.trystan-geoffre" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=450&height=70&duration=4500&lines=Hey!+👋;+I'm+Trystan;Welcome to my Github!;" />
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=000&color=BBF0FF&random=false&width=435&lines=Hey!%F0%9F%91%8B+;I'm+Trystan;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 </h1>
-
 **`Problem Solver | Data Scientist | Data Analyst`**
 
 <br/>
