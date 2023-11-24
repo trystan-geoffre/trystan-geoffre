@@ -35,7 +35,7 @@ using every available resource to dive into challenges head-on
 <img align="left" alt="HTML" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 </div>
-
+<br />
 <div align="center">
 <img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://www.selectdistinct.co.uk/wp-content/uploads/2023/03/Tableau-logo-removebg-preview.png" />
 <img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019–present%29.svg/2203px-Microsoft_Office_Excel_%282019–present%29.svg.png" />
