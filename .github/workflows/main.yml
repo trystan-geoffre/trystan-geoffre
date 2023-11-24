@@ -44,10 +44,12 @@ jobs:
 
       - name: Push new files to the output branch
         run: |
-            git checkout -B output
-            git remote set-url origin git@github.com:trystan-geoffre/trystan-geoffre.git
-            git push --set-upstream origin output
+          git checkout -B output
+          git add .
+          git commit -m "Update snake animations"
+          git remote set-url origin git@github.com:trystan-geoffre/trystan-geoffre.git
+          git push --force origin output
         env:
-            GITHUB_TOKEN: ${{ secrets.TOKEN_README }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN_README }}
 
 
