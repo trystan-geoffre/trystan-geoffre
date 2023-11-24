@@ -32,13 +32,10 @@
 <br/>
 
 ---
-<style>
-  h2 {
-    border-bottom: none;
-  }
-</style>
+
 
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
+
 
 <br/>
 
