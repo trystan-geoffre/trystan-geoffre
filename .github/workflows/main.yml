@@ -43,10 +43,9 @@ jobs:
         run: git status
 
       - name: Push new files to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-          commit_message: Update snake animations
+        run: |
+          git remote set-url origin git@github.com:trystan-geoffre/trystan-geoffre.git
+          git push --force origin output
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN_README }}
+
