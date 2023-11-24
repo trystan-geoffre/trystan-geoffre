@@ -1,21 +1,4 @@
-
-<table align="right">
-  <tr>
-    <td>Visitor Counter</td>
-    <td><img src="https://profile-counter.glitch.me/trystan-geoffre/count.svg" alt="" /></td>
-  </tr>
-</table>
-<br>
-<p align="right">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%2300EF07&size=22&duration=4000&center=true&vCenter=true&width=190&height=20&lines=Visitor+Counter">
-  </a>
- <br>
- <img src="https://profile-counter.glitch.me/{trystan-geoffre}/count.svg" align="right"/>
- <br>
-</p>
-
-# <img align="right"  src="https://visitor-badge.laobi.icu/badge?page_id=trystan-geoffre.trystan-geoffre"/>
+<img align="right"  src="https://visitor-badge.laobi.icu/badge?page_id=trystan-geoffre.trystan-geoffre"/>
 
 
 <p align="center">
@@ -46,6 +29,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+<a href="https://github.com/.github.io/raw/master/files/">
+<img src="https://img.shields.io/badge/Download%20CV-Ali%20Eren%20Kayhan-blue" />
+</a>
+ </h4>
 
 <br/>
 
