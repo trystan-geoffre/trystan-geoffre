@@ -34,8 +34,8 @@
 ---
 
 
-<h2 align="center">⚒️ Languages & Tools ⚒️</h2>
-<!-- Add an empty line here -->
+##⚒️ Languages & Tools ⚒️
+
 
 <br/>
 
