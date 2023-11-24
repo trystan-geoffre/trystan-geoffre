@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://trystan-geoffre.github.io/data-science-portfolio/">
-    <img width="60px" src="https://luc-portfolio.fr/wp-content/uploads/2023/04/my-portfolio-web-1.png"/>
+    <img width="60px" src="https://cdn.freebiesupply.com/logos/large/2x/portfolio-logo-png-transparent.png"/>
   </a>
 </div>
 
