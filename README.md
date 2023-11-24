@@ -4,6 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=450&height=70&duration=4500&lines=Hey!+👋;+I'm+Trystan;Welcome to my Github!;" />
 </h1>
 
+<br/>
 **`Problem Solver | Data Scientist | Data Analyst`**
 
 <br/>
@@ -19,7 +20,7 @@
  🧬 Want to learn **BioInformatic**
 
  </div>
-
+<br/>
 <div align="center"> 
   <a href="mailto:trystan.geoffre@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -33,6 +34,8 @@
 <br/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<br/>
 
 <div align="center">
 <img alt="Python" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
