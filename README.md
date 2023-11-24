@@ -33,7 +33,7 @@
 
 ---
 
-<h2 align="center" a:hover{text-decoration:none;}>⚒️ Languages & Tools ⚒️</h2>
+<h2 align="center" style="border-bottom: none;">⚒️ Languages & Tools ⚒️</h2>
 
 <br/>
 
