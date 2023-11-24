@@ -6,7 +6,7 @@
 </p>
 
 
-**`Self taught passionate Data Scientist & Problem Solver`**
+**`I'm a self-taught passionate Data Scientist & Problem Solver`**
 
 <br/>
 
