@@ -46,9 +46,10 @@ jobs:
         run: |
           git checkout -b output
           git remote set-url origin git@github.com:trystan-geoffre/trystan-geoffre.git
-          git push --force origin output
+          git push --set-upstream origin output
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN_README }}
+}
 
 
 
