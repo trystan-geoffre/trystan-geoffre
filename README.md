@@ -6,6 +6,8 @@
 
 **`Problem Solver | Data Scientist | Data Analyst`**
 
+<br/>
+
 <div align="center">
  
  🚀 I’m currently working on **Full-Stack Trading App**
@@ -15,8 +17,6 @@
  📈 Currently Learning **Deep & Machine Learning application for Financial Market**
 
  🧬 Want to learn **BioInformatic**
-
- 💣 Love to work with **TensorFlow & Neo4j** (Graph DataBase)
 
  </div>
 
@@ -29,6 +29,8 @@
   </a>
 </div>
 
+<br/>
+<br/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
