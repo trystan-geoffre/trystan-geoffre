@@ -31,7 +31,7 @@
 </div>
 
 <a align="center" href="https://github.com/.github.io/raw/master/files/">
-  <img src="https://img.shields.io/badge/Download%20CV-Trystan%20Geoffre-blue" />
+  <img align="center" src="https://img.shields.io/badge/Download%20CV-Trystan%20Geoffre-blue" />
 </a>
  </h4>
 
