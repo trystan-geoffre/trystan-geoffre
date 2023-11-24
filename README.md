@@ -62,9 +62,9 @@
   <h2>🚧 My Contributions 🚧</h2>
   <br>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trystan-geoffre/trystan-geoffre/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trystan-geoffre/trystan-geoffre/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/trystan-geoffre/trystan-geoffre/output/github-contribution-grid-snake.svg">
 </picture>
 
 #  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/trystan-geoffre/trystan-geoffre/output/github-contribution-grid-snake.svg" />
