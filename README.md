@@ -32,10 +32,15 @@
 <br/>
 
 ---
+<style>
+  h2 {
+    border-bottom: none;
+  }
+</style>
 
-<h2 align="center" style="border-bottom: none;">⚒️ Languages & Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages & Tools ⚒️</h2>
 
-
+<br/>
 
 <div align="center">
 <img alt="Python" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
