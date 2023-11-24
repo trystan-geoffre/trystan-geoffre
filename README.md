@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://trystan-geoffre.github.io/data-science-portfolio/">
-    <img width="30px" src="https://e7.pngegg.com/pngimages/202/640/png-clipart-bitcoin-cryptocurrency-logo-lighting-career-portfolio-portfolio-light-fixture-building.png"/>
+    <img width="35px" src="https://e7.pngegg.com/pngimages/202/640/png-clipart-bitcoin-cryptocurrency-logo-lighting-career-portfolio-portfolio-light-fixture-building.png"/>
   </a>
 </div>
 
