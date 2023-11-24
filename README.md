@@ -66,7 +66,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trystan-geoffre/trystan-geoffre/output/github-contribution-grid-snake.svg">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/trystan-geoffre/trystan-geoffre/output/github-contribution-grid-snake.svg">
 </picture>
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
