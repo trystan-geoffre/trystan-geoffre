@@ -16,7 +16,7 @@
  
  🌋 My biggest challenge **TensorFlow's 5h only coding exam** 🌋
 
- 📈 Currently Learning **Deep & Machine Learning for Financial Market** 📈
+ 📈 Currently Learning **Git & Deep Learning for Financial Market** 📈
 
  🧬 Want to learn **BioInformatic** 🧬
 
