@@ -2,7 +2,7 @@
 <table align="right">
   <tr>
     <td>Visitor Counter</td>
-    <td><img src="https://profile-counter.glitch.me/ryanlanciaux/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/trystan-geoffre/count.svg" alt="" /></td>
   </tr>
 </table>
 <br>
