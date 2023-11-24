@@ -39,7 +39,7 @@
 <br />
 
 <div align="center">
-  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+  <a href="https://aws.amazon.com/amplify/" rel="noreferrer">
     <img alt="Python" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
   </a>
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
