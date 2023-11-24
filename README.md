@@ -12,13 +12,13 @@
 
 <div align="center">
  
- 🚀 I’m currently working on **Full-Stack Trading App**
+ 🚀 I’m currently working on **Full-Stack Trading App** 🚀
  
- 🌋 My biggest challenge **TensorFlow's 5h only coding exam**
+ 🌋 My biggest challenge **TensorFlow's 5h only coding exam** 🌋
 
- 📈 Currently Learning **Deep & Machine Learning for Financial Market**
+ 📈 Currently Learning **Deep & Machine Learning for Financial Market** 📈
 
- 🧬 Want to learn **BioInformatic**
+ 🧬 Want to learn **BioInformatic** 🧬
 
  </div>
 <div align="center"> 
@@ -56,5 +56,12 @@
 <br />
 
 ---
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <h4>work in progress</h4>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/trystan-geoffre/trystan-geoffre/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 
 
