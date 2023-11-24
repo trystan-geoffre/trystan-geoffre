@@ -3,11 +3,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%2300EF07&size=22&duration=4000&center=true&vCenter=true&width=190&height=20&lines=Visitor+Counter">
   </a>
  <br>
- <img src="https://profile-counter.glitch.me/{trystan-geoffre}/count.svg" align="right"/>
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=trystan-geoffre.trystan-geoffre"/>
  <br>
 </p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=trystan-geoffre.trystan-geoffre" />
+<img align="right"  src="https://profile-counter.glitch.me/{trystan-geoffre}/count.svg" align="right"/>
 
 
 <p align="center">
