@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=000&color=BBF0FF&center=true&random=false&width=500&height=51&lines=Welcome+to+my+GitHub+%F0%9F%91%8B+;I'm+Trystan!;" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=000&color=BBF0FF&center=true&random=false&width=500&height=51&lines=Welcome+to+my+GitHub%F0%9F%91%8B+;I'm+Trystan!;" alt="Typing SVG"/></a>
 </p>
 
 
@@ -59,7 +59,7 @@
 
 ---
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🚧 My Contributions 🚧</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/trystan-geoffre/trystan-geoffre/output/github-contribution-grid-snake.svg" />
   
