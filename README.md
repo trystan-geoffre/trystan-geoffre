@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://trystan-geoffre.github.io/data-science-portfolio/">
-    <img width="85px" margin-top="100px" src="https://img.shields.io/badge/?style=for-the-badge&logo=Website20%Portfolio&logoColor=white""/>
+    <img width="85px" margin-top="100px" src="https://img.shields.io/badge/Portfolio%20Website-0077B5"/>
   </a>
 </div>
 
