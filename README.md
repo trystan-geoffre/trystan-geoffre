@@ -14,7 +14,7 @@
  
  🚀 I’m currently working on **Full-Stack Trading App** 🚀
  
- 🌋 My biggest challenge <a href="https://www.credential.net/356c31f7-1049-4070-883f-655f4df87023#gs.1i4s80"> **TensorFlow's </a> 5h only coding exam** 🌋
+ 🌋 My biggest challenge **TensorFlow's 5h only coding exam** 🌋
 
  📈 Currently Learning **Git & Deep Learning for Financial Market** 📈
 
