@@ -36,7 +36,7 @@
 
 <div align="center">
   <a href="https://github.com/.github.io/raw/master/files/">
-    <img align="center" src="https://img.shields.io/badge/Download%20CV-1%20Page-blue" />
+    <img align="center" src="https://img.shields.io/badge/Download%20CV-1%20Page%20Version-blue" />
   </a>
   <a align="center" href="https://github.com/.github.io/raw/master/files/">
     <img align="center" src="https://img.shields.io/badge/Download%20CV-Extended%20Version-blue" />
