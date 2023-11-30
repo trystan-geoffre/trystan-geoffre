@@ -44,6 +44,16 @@
 
 <br/>
 
+<details>
+  <h2 align="center"> 🌅 Journey Highlights 🌅 </h2>
+  
+  <summary> 🌅 Journey Highlights 🌅</summary> 
+<p>
+As a student in Economics & Management with a profound interest in Market and Corporate Finance, my exploration of programming through Data Science emerged as a strategic decision to enhance my analytical toolkit.Recognizing the growing intersection of finance and technology, I sought to delve into the realm of Data Science to harness its power in deciphering intricate financial patterns, making informed decisions, and optimizing strategies. Programming skills, particularly in the context of data analysis, have become indispensable in today's financial landscape, where vast datasets hold invaluable insights. By delving into Data Science, I aimed to bridge the gap between my financial acumen and the evolving technological landscape, equipping myself with the capabilities to extract meaningful information, model financial scenarios, and contribute to the dynamic field of Finance. This interdisciplinary approach not only broadens my skill set but also positions me at the forefront of innovation in the finance domain.
+</p>
+</details>
+<br>
+
 ---
 
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
@@ -90,17 +100,6 @@
 <br />
 
 ---
-<details>
-  <h2 align="center"> 🌅 Journey Highlights 🌅 </h2>
-  
-  <summary> 🌅 Journey Highlights 🌅</summary> 
-<p>
-As a student in Economics & Management with a profound interest in Market and Corporate Finance, my exploration of programming through Data Science emerged as a strategic decision to enhance my analytical toolkit.Recognizing the growing intersection of finance and technology, I sought to delve into the realm of Data Science to harness its power in deciphering intricate financial patterns, making informed decisions, and optimizing strategies. Programming skills, particularly in the context of data analysis, have become indispensable in today's financial landscape, where vast datasets hold invaluable insights. By delving into Data Science, I aimed to bridge the gap between my financial acumen and the evolving technological landscape, equipping myself with the capabilities to extract meaningful information, model financial scenarios, and contribute to the dynamic field of Finance. This interdisciplinary approach not only broadens my skill set but also positions me at the forefront of innovation in the finance domain.
-</p>
-</details>
-<br>
-
-<h1></h1>
 
 <div align="center">
   <h2>🚧 My Contributions 🚧</h2>
