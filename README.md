@@ -28,16 +28,19 @@
   <a href="mailto:trystan.geoffre@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a align="center" href="https://github.com/.github.io/raw/master/files/">
-    <img align="center" src="https://img.shields.io/badge/Download%20CV-Trystan%20Geoffre-blue" />
-  </a>
   <a href="https://www.linkedin.com/in/trystan-geoffre-03/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</div>
 
 
-<div align="center" href="https://github.com/.github.io/raw/master/files/">
-  <img align="center" src="https://img.shields.io/badge/Download%20CV-Trystan%20Geoffre-blue" />
+<div align="center">
+  <a href="https://github.com/.github.io/raw/master/files/">
+    <img align="center" src="https://img.shields.io/badge/Download%20CV-Trystan%20Geoffre-blue" />
+  </a>
+  <a align="center" href="https://github.com/.github.io/raw/master/files/">
+    <img align="center" src="https://img.shields.io/badge/Download%20CV-Trystan%20Geoffre-blue" />
+  </a>
 </div>
  </h4>
 
