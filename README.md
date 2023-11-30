@@ -36,10 +36,10 @@
 
 <div align="center">
   <a href="https://github.com/.github.io/raw/master/files/">
-    <img align="center" src="https://img.shields.io/badge/Download%20CV-Trystan%20Geoffre-blue" />
+    <img align="center" src="https://img.shields.io/badge/Download%20CV-1%20Page-blue" />
   </a>
   <a align="center" href="https://github.com/.github.io/raw/master/files/">
-    <img align="center" src="https://img.shields.io/badge/Download%20CV-Trystan%20Geoffre-blue" />
+    <img align="center" src="https://img.shields.io/badge/Download%20CV-Extended-blue" />
   </a>
 </div>
  </h4>
