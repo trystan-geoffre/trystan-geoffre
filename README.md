@@ -36,10 +36,10 @@
 
 <div align="center">
   <a href="https://trystan-geoffre.github.io/website/CVMinimal_Trystan_Geoffre.pdf">
-    <img align="center" src="https://img.shields.io/badge/Download%20CV%20Minimal%20Version-blue" />
+    <img align="center" src="https://img.shields.io/badge/Download%20CV%20Minimal%20-blue" />
   </a>
   <a align="center" href="https://trystan-geoffre.github.io/website/CV_Trystan_Geoffre.pdf">
-    <img align="center" src="https://img.shields.io/badge/Download%20CV%20Version-blue" />
+    <img align="center" src="https://img.shields.io/badge/Download%20CV%20-blue" />
   </a>
 </div>
  </h4>
