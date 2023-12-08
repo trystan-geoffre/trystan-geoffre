@@ -31,6 +31,9 @@
   <a href="https://www.linkedin.com/in/trystan-geoffre-03/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+    <a href="https://medium.com/@trystan.geoffre">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </div>
 
 
